@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ercanoguz07" target="_blank"><img align="center" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="ercan oğuz" height="30" width="30" /></a> 
-<a href="mailto:melda_celik@hotmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="ercan oğuz" height="35" width="35" /></a> 
+<a href="mailto:ercanoguz07@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="ercan oğuz" height="35" width="35" /></a> 
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
