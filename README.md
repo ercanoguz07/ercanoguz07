@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ercan Oğuz</h1>
-
+</br>
 -I’m a Computer Engineer.
+</br>
 -I’m interested in flutter, android, c#, c++
+</br>
 -I’m currently learning flutter
+</br>
 -How to reach me: ercanoguz07@gmail.com
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ercan-o%C4%9Fuz-54b27087/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="ercan oğuz" height="30" width="30" /></a> 
