@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ercan Oğuz</h1>
 
-- 👩🏻‍🎓 I’m a Computer Engineer.
-- 👀 I’m interested in flutter, android, c#, c++
-- 🌱 I’m currently learning flutter
-- 📫 How to reach me: ercanoguz07@gmail.com
+-I’m a Computer Engineer.
+-I’m interested in flutter, android, c#, c++
+-I’m currently learning flutter
+-How to reach me: ercanoguz07@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
