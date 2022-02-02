@@ -3,7 +3,7 @@
 - 👩🏻‍🎓 I’m a Computer Engineer.
 - 👀 I’m interested in flutter, android, c#, c++
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me: melda_celik@hotmail.com
+- 📫 How to reach me: ercanoguz07@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
